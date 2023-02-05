@@ -1,0 +1,2 @@
+# jsqr
+Javascript Quick Reference
